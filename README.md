@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flask, Python,Pandas**
 
-- 💬 Ask me about **Vue, Nuxtjs,fastify**
+- 💬 Ask me about **Vue, Nuxtjs, fastify**
 
 - 📫 How to reach me **juangaleassantos@gmail.com**
 
