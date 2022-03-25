@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Galeas</h1>
 <h3 align="center">I'm a Software Engineer 👨‍💻 with an emphasis in: Leadership-oriented tasks and roles</h3>
 
-- 🌱 I’m currently learning **Flask, Python,Pandas**
+- 🌱 I’m currently learning **Flask, Python, Pandas**
 
-- 💬 Ask me about **Vue, Nuxtjs,fastify**
+- 💬 Ask me about **Vue, Nuxtjs, fastify**
 
 - 📫 How to reach me **juangaleassantos@gmail.com**
 
