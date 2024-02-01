@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juangaleassantos@gmail.com**
 
-- 📄 Know about my experiences [https://juangaleas.xyz](https://juangaleas.xyz)
+- 📄 Know about my experiences [https://juangaleas.xyz](https://juangaleas.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
